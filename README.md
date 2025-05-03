@@ -71,8 +71,7 @@ else:
  
 
 # Output : 
-
-![image](https://github.com/gauthamkrishna7/Poisson_distribution/assets/141175025/60b1d60d-4c36-46f5-8eb9-7a227714aff5)
+![image](https://github.com/user-attachments/assets/edc53ba6-f1fc-4361-b7f9-984a1809c41b)
 
 
 # Results
